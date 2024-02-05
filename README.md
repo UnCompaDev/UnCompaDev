@@ -1,6 +1,8 @@
 ### Hola a todos, soy Brandon Paillacho👋
 
-![Ilustracion](https://img.freepik.com/vector-premium/codificacion-programacion-desarrollo-web-codigo-computadora-banner-futurista-computadora-portatil_3482-5582.jpg)
+Soy un apasionado por la programacion, actualmente me capacido para ser desarrollador **Front-end**, posteriormente para ser desarrollador Full-Stack.
+
+![Ilustracion](https://png.pngtree.com/png-clipart/20220510/original/pngtree-coders-and-programmers-team-banner-png-image_7696580.png)
 <!--
 **UnCompaDev/UnCompaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
